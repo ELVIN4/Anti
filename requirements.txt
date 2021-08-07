@@ -1,4 +1,3 @@
-user_agent
 colorama
 beautifulsoup4
 pyfiglet
