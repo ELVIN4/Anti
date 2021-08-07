@@ -1,5 +1,4 @@
 import random, string
-from user_agent import generate_user_agent
 
 mails = (
     "mail.ru",
