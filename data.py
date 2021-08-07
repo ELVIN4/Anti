@@ -27,7 +27,7 @@ ru_name = [
     'Арсений', 'Василий', 'Максим', 'Грегорий', 'Нурлан', 'Артем', 'Анастасия', 'Женя', 'Катя', 'Карина', 'Аня',
 ]
 
-agent = [generate_user_agent(device_type="desktop", os=("linux")), generate_user_agent(device_type="desktop", os=("mac"))]
+agent = open('user_agents.txt').read().split('\n')
 
 
 def name():
