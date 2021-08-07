@@ -1,3 +1,4 @@
 colorama
 beautifulsoup4
 pyfiglet
+requests
