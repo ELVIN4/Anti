@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/71011947/128605605-266ee332-458b-4b48-b2a7-5f723dacc090.png)
-
 # Установка
 Шаг 1. Установите приложение Termux (Желательно с F-droid но можно и с Google  play), войдите в приложение и обновите пакеты.
 
